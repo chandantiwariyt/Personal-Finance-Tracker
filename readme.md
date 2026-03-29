@@ -5,7 +5,7 @@ A full-stack personal finance management tool built with **Python**, **Streamlit
 ---
 
 ## 🔴 Live Demo
-> Run locally using the steps below — or deploy free on [Streamlit Cloud](https://streamlit.io/cloud)
+> Run locally using the steps below — or deploy free on [Streamlit Cloud](https://personal-finance-tracker-ewzo.onrender.com/))
 
 ---
 
