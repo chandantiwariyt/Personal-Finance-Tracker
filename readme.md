@@ -180,8 +180,8 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Chadnan Tiwari**
-- GitHub: [@yourusername](https://github.com/chandantiwariyt)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/chandantiwari4/)
+- GitHub: [https://github.com/chandantiwariyt](https://github.com/chandantiwariyt)
+- LinkedIn: [https://www.linkedin.com/in/chandantiwari4/](https://www.linkedin.com/in/chandantiwari4/)
 
 ---
 
